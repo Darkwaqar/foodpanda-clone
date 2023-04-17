@@ -1,5 +1,9 @@
 # Clone of Foodpanda
 
+## Technology Use
+
+React Native | Redux | tailwind | React Native Navigation | HeroIcons | sanity.io | react-native-animatable |react-native-progress | react-native-maps
+
 ## Step
 
 1. use command `npx create-expo-app FoodPanda-clone`
@@ -19,7 +23,7 @@
 8. add React Navigation both native and stack
    `npm install @react-navigation/native @react-navigation/stack`
 
-9. add expo react navigation dependies by
+9. add expo react navigation decencies by
    `npx expo install react-native-screens react-native-safe-area-context`
 
 10. add gesture handle by
@@ -91,3 +95,7 @@
 
 26. add react native map
     `npx expo install react-native-maps`
+
+## preview
+
+!["FoodPanda clone"](Preview.png)
